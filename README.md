@@ -17,7 +17,10 @@ They want to modernize their infrastructure for:
 - Scaling and reducing workload on operational system: Migrating existing MySQL on promise to Google Cloud Platform (GCP). MySQL on promise will be fully managed by Cloud SQL. 
 - Reporting solution: When we build data warehouse on GCP, we will use BigQuery to set up OLAP systems for reports.
 
-### Requirement
+### Datawarehouse Architecture
+![Screenshot 2023-05-04 at 11 09 55 AM](https://user-images.githubusercontent.com/10942817/236151155-ba728439-6a91-44ab-aaf5-8656a62419ee.png)
+
+### Progress
 - [Define Business Process](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Define_Business%20_Process)
 - [Conduct Data Profiling (Data Exploration)](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Data_profiling)
 - [Create Bus Matrix High level entities](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Bus_Matrix_High_Level_Entities)
