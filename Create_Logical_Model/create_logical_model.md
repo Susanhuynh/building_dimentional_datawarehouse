@@ -5,3 +5,4 @@ In this step, we build Fact and Dim tables with all the attributes and show the 
 
 In our case, the results look like this:
 
+![logical_model_design](https://user-images.githubusercontent.com/10942817/236156033-765ca955-9495-4149-ae59-84f0f38d4520.png)
