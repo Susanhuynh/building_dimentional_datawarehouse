@@ -11,3 +11,5 @@ After brainstorm what Bus Matrix in general view, now we can move to decribe Bux
 - What is the Priority?
 
 And here is the results:
+
+![Screenshot 2023-05-04 at 11 36 42 AM](https://user-images.githubusercontent.com/10942817/236153161-de0e2154-ba12-4243-b946-30e1278265a9.png)
