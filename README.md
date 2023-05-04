@@ -23,5 +23,7 @@ They want to modernize their infrastructure for:
 - [Create Bus Matrix High level entities](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Bus_Matrix_High_Level_Entities)
 - [Create Conceptual Model](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Build_Conceptual_Model)
 - [Build Soure to Target Mapping](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Source%20to%20Target%20Mapping)
+- Create Logical Model
+- Create Physical Model
 - [Use dbt to Transform data](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/build_dimentional_datawarehouse)
 - [Create Staging, Datawarehouse and Analytics One Big Table Layer by dbt on BigQuery](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/build_dimentional_datawarehouse)
