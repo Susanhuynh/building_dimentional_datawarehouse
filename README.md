@@ -18,7 +18,7 @@ They want to modernize their infrastructure for:
 - Reporting solution: When we build data warehouse on GCP, we will use BigQuery to set up OLAP systems for reports.
 
 ### Requirement
-- Define Business Process
+- [Define Business Process](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Define_Business%20_Process)
 - Conduct Data Profiling (Data Exploration)
 - Create Bus Matrix High level entities
 - Create Conceptual Model
