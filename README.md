@@ -19,9 +19,9 @@ They want to modernize their infrastructure for:
 
 ### Requirement
 - [Define Business Process](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Define_Business%20_Process)
-- Conduct Data Profiling (Data Exploration)
-- Create Bus Matrix High level entities
-- Create Conceptual Model
-- Build Soure to Target Mapping
-- Use dbt to Transform data
-- Create Staging, Datawarehouse and Analytics One Big Table Layer by dbt on BigQuery
+- [Conduct Data Profiling (Data Exploration)](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Data_profiling)
+- [Create Bus Matrix High level entities](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Bus_Matrix_High_Level_Entities)
+- [Create Conceptual Model](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Build_Conceptual_Model)
+- [Build Soure to Target Mapping](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/Source%20to%20Target%20Mapping)
+- [Use dbt to Transform data](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/build_dimentional_datawarehouse)
+- [Create Staging, Datawarehouse and Analytics One Big Table Layer by dbt on BigQuery](https://github.com/Susanhuynh/building_dimentional_datawarehouse/tree/main/build_dimentional_datawarehouse)
