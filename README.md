@@ -21,5 +21,7 @@ They want to modernize their infrastructure for:
 - Define Business Process
 - Conduct Data Profiling (Data Exploration)
 - Create Bus Matrix High level entities
-- Create Naming Convention Document
 - Create Conceptual Model
+- Build Soure to Target Mapping
+- Use dbt to Transform data
+- Create Staging, Datawarehouse and Analytics One Big Table Layer by dbt on BigQuery
